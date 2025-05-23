@@ -34,7 +34,7 @@ Welcome! I'm a Mechatronics Engineering student at Texas A&M specializing in rob
 - Performed extensive field testing across varying indoor conditions to calibrate firing delay, improve object recognition under different backgrounds, and reduce false triggers.
 
 
-Demo Video: [Watch here](https://drive.google.com/file/d/13DOgFnZRKw2B_BtkJqVHfoBgalWu6pOa/view)
+Demo Video: [Watch here](https://drive.google.com/file/d/1lq5InaX54CyKnYxklKG4WbiJVY_GtGbp/view)
 
 ---
 
@@ -46,7 +46,7 @@ Demo Video: [Watch here](https://drive.google.com/file/d/13DOgFnZRKw2B_BtkJqVHfo
 - Debugged system performance through serial monitoring and live tuning of PID constants; minimized oscillation and overshoot during high-speed cornering.
 - Tested and validated robot behavior on multi-turning tracks to ensure robustness and consistency.
 
-Demo Video: [Watch here](https://drive.google.com/file/d/1lq5InaX54CyKnYxklKG4WbiJVY_GtGbp/view)
+Demo Video: [Watch here](https://drive.google.com/file/d/13DOgFnZRKw2B_BtkJqVHfoBgalWu6pOa/view)
 
 ---
 
