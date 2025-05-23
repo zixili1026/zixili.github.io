@@ -16,5 +16,5 @@ Balloon Destroyer
 
 
 
-## 🛠️ Skills
+Skills
 Python • C++ • Embedded Systems • Blender • ROS2 • HVAC • MATLAB
