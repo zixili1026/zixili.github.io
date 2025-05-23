@@ -7,7 +7,7 @@ Projects
 Saffron Auto Harvester
 - 6-DOF robotic arm controlled via inverse kinematics in Python
 - YOLOv4-based stigma detection with bounding box & distance estimation
-- 
+- ![Saffron Harvester Robot Master Drawing](RedGold_MasterDrawing.png)
 
 Balloon Destroyer
 - Autonomous color tracking and LIDAR-based obstacle avoidance
