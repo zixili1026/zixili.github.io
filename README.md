@@ -23,10 +23,30 @@ Welcome! I'm a Mechatronics Engineering student at Texas A&M specializing in rob
 ---
 
 ### Balloon Destroyer
-- Autonomous color tracking and LIDAR-based obstacle avoidance  
-- Real-time firing system based on target stillness  
+-Selected by faculty for presentation at the department showcase for demonstrating advanced real-time targeting and autonomous robotics in a competitive classroom setting.
+-Developed a full-stack control system in Python running on a Linux-based platform (Raspberry Pi), integrating image processing, motion control, and autonomous decision-making.
+-Implemented color-based object tracking using OpenCV to identify and follow balloons of a specified hue in variable lighting environments.
+-Engineered autonomous navigation logic with real-time obstacle detection using 2D Lidar data and proximity thresholds; robot rerouted dynamically to avoid collisions and reengage targets.
+-Programmed conditional firing mechanism based on temporal stability detection—target engagement was triggered only after the balloon remained within the frame and stationary for ≥3 seconds.
+-Achieved high targeting precision through real-time angle calculation between the camera center and object centroid, dynamically adjusting a servo-driven turret before firing.
+-Designed and fabricated mechanical frame using aluminum and acrylic components; integrated motor drivers, ultrasonic sensors, and Li-ion power systems for mobile autonomy.
+-Optimized control loop frequency and task prioritization, balancing sensor polling, motion control, and camera processing to minimize latency and improve responsiveness.
+-Performed extensive field testing across varying indoor conditions to calibrate firing delay, improve object recognition under different backgrounds, and reduce false triggers.
 
-📹 Demo Video: [Watch here](https://drive.google.com/file/d/13DOgFnZRKw2B_BtkJqVHfoBgalWu6pOa/view)
+
+Demo Video: [Watch here](https://drive.google.com/file/d/13DOgFnZRKw2B_BtkJqVHfoBgalWu6pOa/view)
+
+---
+
+### PID Controlled Line-Follower Robot
+-Designed and fabricated a custom mobile chassis using precision-cut aluminum plates and mounted dual rear-drive DC motors for optimal weight distribution and stability.
+-Developed closed-loop motor control logic using an Arduino Mega 2560 with finely tuned PID (Proportional–Integral–Derivative) parameters to ensure smooth and accurate turning across curves and junctions.
+-Integrated a front-mounted tri-sensor infrared array to continuously detect floor-mounted tape lines; used sensor differentials to dynamically adjust motor speeds and maintain centerline alignment.
+-Implemented real-time control loop for sensor polling, error calculation, and motor speed adjustments, achieving stable line-following performance even at variable speeds.
+-Debugged system performance through serial monitoring and live tuning of PID constants; minimized oscillation and overshoot during high-speed cornering.
+-Tested and validated robot behavior on multi-turning tracks to ensure robustness and consistency.
+
+Demo Video: [Watch here](https://drive.google.com/file/d/1lq5InaX54CyKnYxklKG4WbiJVY_GtGbp/view)
 
 ---
 
