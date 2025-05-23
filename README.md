@@ -6,7 +6,7 @@ Welcome! I'm a Mechatronics Engineering student at Texas A&M specializing in rob
 
 ## Projects
 
-### 🌸 Saffron Auto Harvester
+### Saffron Auto Harvester
 - Led a multidisciplinary team to develop an autonomous robot capable of detecting, approaching, and extracting saffron stigmas from blossoms using real-time AI vision and a 6-degree-of-freedom (6-DOF) robotic arm.
 - Programmed inverse kinematics (IK) algorithms in Python using the Jacobian matrix method to compute joint angles for a 6-DOF robotic arm, enabling sub-centimeter precision during stigma extraction.
 - Integrated open-loop servo control with angle calibration and joint-limit safety checks to drive six PWM-controlled motors; optimized timing sequences to minimize jitter and lag during movement.
@@ -22,7 +22,7 @@ Welcome! I'm a Mechatronics Engineering student at Texas A&M specializing in rob
 
 ---
 
-### 🎯 Balloon Destroyer
+### Balloon Destroyer
 - Autonomous color tracking and LIDAR-based obstacle avoidance  
 - Real-time firing system based on target stillness  
 
