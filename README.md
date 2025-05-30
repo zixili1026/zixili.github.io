@@ -22,6 +22,16 @@ Welcome! I'm a Mechatronics Engineering student at Texas A&M specializing in rob
 
 ---
 
+### Universal Robot Arm Control
+- Programmed and operated a Universal Robots (UR) arm using the teach pendant and digital I/O, achieving precise waypoint-based motion control and synchronized gripper actuation for automated task execution.
+- Developed advanced motion logic in Python (Structured Text) for custom task sequences, and integrated ROS2 to dynamically control arm positioning through software-defined waypoints and trajectories.
+- Designed and implemented automation logic to coordinate a robotic arm, conveyor system, and sensor array using digital I/O mapping, enabling real-time decision-making and object handling in a semi-automated environment.
+- Simulated a full pick-and-place operation involving two robotic arms and a conveyor system, including dual-arm synchronization, object detection, pickup, transfer, and drop-off, to validate automation workflows and optimize cycle timing.
+
+Demo Video: [Watch here](https://drive.google.com/file/d/12-ro4vZ8bAzUuN-4YECN8C2r5WobAkzu/view?usp=drive_link)
+
+---
+
 ### Balloon Destroyer
 - Selected by faculty for presentation at the department showcase for demonstrating advanced real-time targeting and autonomous robotics in a competitive classroom setting.
 - Developed a full-stack control system in Python running on a Linux-based platform (Raspberry Pi), integrating image processing, motion control, and autonomous decision-making.
